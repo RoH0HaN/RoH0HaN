@@ -145,12 +145,6 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 - 🧠 Focus: Flutter • Node.js • Express.js • Supabase • MongoDB
 - 💼 Founder of *The Syntax* – real-world software builders
 
-| 💙 Flutter | 🟨 JavaScript | ☕ Java | 🟫 Dart | 🟦 TypeScript | 🐘 PostgreSQL |
-|------------|---------------|--------|---------|----------------|----------------|
-| 🧠 App Dev | ⚙️ Backend Dev | 📘 OOP | 📱 Mobile UI | 🧩 APIs | 🛢️ Data Modeling |
+<br clear="both">
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
