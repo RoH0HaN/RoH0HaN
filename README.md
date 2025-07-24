@@ -131,7 +131,7 @@ const projects = [
 ### 📬 Reach Out & Collaborate
 
 Whether you're building something exciting, hiring, or just want to geek out over tech — feel free to reach out.
-
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://linkedin.com/in/rohan-debnath-03410a253/) 
 - 💼 [**LinkedIn**](https://linkedin.com/in/rohan-debnath-03410a253/)  
 - 📧 **Email** — `rohan.your@email.com`  
 
