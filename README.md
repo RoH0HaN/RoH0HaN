@@ -126,19 +126,18 @@ const projects = [
 > 🧠 Always learning. Always building. Always shipping.
 
 
----
-
 ### 📬 Reach Out & Collaborate
 
-Whether you're building something exciting, hiring, or just want to geek out over tech — feel free to reach out.
-</br>
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://linkedin.com/in/rohan-debnath-03410a253/) 
-[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />](https://linkedin.com/in/rohan-debnath-03410a253/) 
-- 💼 [**LinkedIn**](https://linkedin.com/in/rohan-debnath-03410a253/)  
-- 📧 **Email** — `rohan.your@email.com`  
+Whether you're building the next big thing, scaling up your dream startup, or just passionate about great tech —
+**I'm always up for meaningful conversations, collaborative development, and turning ideas into real-world impact.**
 
-> Open to collaborations, freelancing, and developer communities.
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)](https://linkedin.com/in/rohan-debnath-03410a253/)
+[![Outlook](https://img.shields.io/static/v1?message=Email\&logo=microsoft-outlook\&label=\&color=0078D4\&logoColor=white\&labelColor=\&style=for-the-badge)](mailto:rohan251@outlook.com)
 
+> *"I believe that code is more than syntax – it’s about solving real problems, building community, and creating a better digital world one commit at a time.
+> Whether it's a weekend project or a large-scale deployment, I bring curiosity, discipline, and a deep love for tech to every line of code."*
+
+Let’s connect — freelancing, dev communities, or just vibing over clean UI and scalable backend ✨
 
 ### 📊 GitHub Activity Snapshot
 
