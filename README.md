@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there%20👋,%20I'm%20Rohan%20Debnath&textBg=false&reversal=false&animation=twinkling&desc=🚀%20Full-Stack%20Developer%20|%20📚%20Tech%20Trainer%20|%20🔧%20Team%20Builder%20|%20🇮🇳%20India&fontAlign=50&descAlignY=83&fontSize=50" alt="Header" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+%26+Tech+Mentor++;%F0%9F%9A%80+Flutter+%7C+Node.js+%7C+MongoDB+Specialist++;%F0%9F%92%A1+Founder+of+The+Syntax+%E2%80%93+Real+World+Builders+;%F0%9F%93%A6+Shipping+Products+that+Actually+Scale;%F0%9F%A4%9D+Let's+Collaborate+and+Innovate!" alt="Typing SVG" /></a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=00F771&center=true&vCenter=true&random=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer+%26+Tech+Mentor++;%F0%9F%9A%80+Flutter+%7C+Node.js+%7C+MongoDB+Specialist++;%F0%9F%92%A1+Founder+of+The+Syntax+%E2%80%93+Real+World+Builders+;%F0%9F%93%A6+Shipping+Products+that+Actually+Scale;%F0%9F%A4%9D+Let's+Collaborate+and+Innovate!" alt="Typing SVG" />
+</p>
 
 
 ### 🧠 `about-me.js`
@@ -19,8 +20,6 @@ const rohan = new Developer({
 rohan.teach();
 rohan.build();
 ```
-
----
 
 ### 🔧 `current-projects.sh`
 ```bash
