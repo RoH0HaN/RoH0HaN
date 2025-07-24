@@ -137,8 +137,6 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 
 > Open to collaborations, freelancing, and developer communities.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoH0HaN&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoH0HaN)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 GitHub Activity Snapshot
 
@@ -147,11 +145,11 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 - 🧠 Focus: Flutter • Node.js • Express.js • Supabase • MongoDB
 - 💼 Founder of *The Syntax* – real-world software builders
 
+| 💙 Flutter | 🟨 JavaScript | ☕ Java | 🟫 Dart | 🟦 TypeScript | 🐘 PostgreSQL |
+|------------|---------------|--------|---------|----------------|----------------|
+| 🧠 App Dev | ⚙️ Backend Dev | 📘 OOP | 📱 Mobile UI | 🧩 APIs | 🛢️ Data Modeling |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoH0HaN&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RoH0HaN&theme=tokyonight&hide_border=false&count_private=true" height="180" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
