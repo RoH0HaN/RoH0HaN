@@ -145,6 +145,8 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 - 🧠 Focus: Flutter • Node.js • Express.js • Supabase • MongoDB
 - 💼 Founder of *The Syntax* – real-world software builders
 
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
