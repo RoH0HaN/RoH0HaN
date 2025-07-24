@@ -138,6 +138,7 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 > Open to collaborations, freelancing, and developer communities.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoH0HaN&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RoH0HaN)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 GitHub Activity Snapshot
 
