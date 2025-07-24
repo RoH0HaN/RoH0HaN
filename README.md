@@ -123,7 +123,8 @@ const projects = [
 - 📊 **Power BI** — crafting beautiful data stories and dashboards  
 - 🎥 **Content Creation** — sharing dev insights on [LinkedIn](https://linkedin.com/in/rohan-debnath-03410a253/)
 
-> 🧠 Always learning. Always building. Always shipping.
+> *"I believe that code is more than syntax – it’s about solving real problems, building community, and creating a better digital world one commit at a time.
+> Whether it's a weekend project or a large-scale deployment, I bring curiosity, discipline, and a deep love for tech to every line of code."*
 
 
 ### 📬 Reach Out & Collaborate
@@ -133,9 +134,6 @@ Whether you're building the next big thing, scaling up your dream startup, or ju
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)](https://linkedin.com/in/rohan-debnath-03410a253/)
 [![Outlook](https://img.shields.io/static/v1?message=Email\&logo=microsoft-outlook\&label=\&color=0078D4\&logoColor=white\&labelColor=\&style=for-the-badge)](mailto:rohan251@outlook.com)
-
-> *"I believe that code is more than syntax – it’s about solving real problems, building community, and creating a better digital world one commit at a time.
-> Whether it's a weekend project or a large-scale deployment, I bring curiosity, discipline, and a deep love for tech to every line of code."*
 
 Let’s connect — freelancing, dev communities, or just vibing over clean UI and scalable backend ✨
 
@@ -147,7 +145,8 @@ Let’s connect — freelancing, dev communities, or just vibing over clean UI a
 - 💼 Founder of *The Syntax* – real-world software builders
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoH0HaN/RoH0HaN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoH0HaN/RoH0HaN/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/RoH0HaN/RoH0HaN/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://roh0han.github.io/RoH0HaN/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://roh0han.github.io/RoH0HaN/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://roh0han.github.io/RoH0HaN/pacman-contribution-graph.svg">
 </picture>
+
