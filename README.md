@@ -137,6 +137,8 @@ Whether you're building something exciting, hiring, or just want to geek out ove
 
 > Open to collaborations, freelancing, and developer communities.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoH0HaN&hide_progress=false)
+
 ### 📊 GitHub Activity Snapshot
 
 - 🔐 Mostly working on private & client repositories
