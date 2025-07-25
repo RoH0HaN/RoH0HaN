@@ -67,49 +67,55 @@ const projects = [
     name: "⚕️ FastCure Pharma",
     description: "Workflow & log management for medical reps",
     stack: ["Flutter", "Node.js", "MongoDB", "Firebase", "Ola Maps"],
-    repoLink: "https://github.com/your-username/fastcure-pharma"
+    app_repoLink: "https://github.com/your-username/fastcure-pharma",
+    backend_repoLink: "https://github.com/RoH0HaN/fast-cure-pharma-server"
   },
   {
     name: "🍴 EatHut (4-App Ecosystem)",
     description: "Real-time food delivery system with order tracking & notifications",
     stack: ["Flutter", "Node.js", "Express.js", "Firebase Storage", "Socket.io", "Render", "MongoDB", "Socket.io", "Google Maps", "Render"],
-    repoLink: "https://github.com/your-username/eathut"
+    userApp_repoLink: "https://github.com/RoH0HaN/eathut",
+    chefApp_repoLink: "https://github.com/RoH0HaN/eathut-chefs",
+    riderApp_repoLink: "https://github.com/RoH0HaN/eathut-riders",
+    backend_repoLink: "https://github.com/RoH0HaN/eathut-server",
+    userApp_playStore_link: "https://play.google.com/store/apps/details?id=com.eathut.app&pcampaignid=web_share"
   },
   {
     name: "🧾 Swade Allahde Billing",
     description: "POS desktop app with offline sync and cloud support",
     stack: ["Flutter (Windows)", "AppWrite"],
-    repoLink: "https://github.com/your-username/swade-allahde"
+    repoLink: "https://github.com/RoH0HaN/swade-allahde"
   },
   {
     name: "🏫 Engineers Hub ERP",
     description: "All-in-one student ERP with exams, material uploads & chat",
-    stack: [ "Node.js", "Nest.js", "MongoDB", "Firebase Storage", "Socket.io"],
-    repoLink: "https://github.com/your-username/engineers-hub"
+    stack: [ "Node.js", "Nest.js", "Remix.js", "MongoDB", "Firebase Storage", "Socket.io"],
+    frontend_repoLink: "https://github.com/A10Zas/college-management-system-with-remix",
+    backend_repoLink: "https://github.com/A10Zas/cms-backend-with-nestjs",
   },
   {
     name: "🤖 NLP-Bot (TechFest)",
     description: "JS backend NLP chatbot with image-to-text & no AI APIs — uses Socket.io for real-time chat",
-    stack: ["Flutter", "Node.js", "Express.js", "Socket.io", "Tesseract.js"],
-    repoLink: "https://github.com/your-username/nlp-bot"
+    stack: ["Flutter", "Socket.io"],
+    repoLink: "https://github.com/RoH0HaN/nlp-bot"
   },
   {
     name: "💊 HealthCare (Storefront App)",
     description: "Flutter app to sell medicines online — built for a medical store",
     stack: ["Flutter", "Firebase"],
-    repoLink: "https://github.com/your-username/healthcare-storefront"
+    repoLink: "https://github.com/RoH0HaN/healthcare-app"
   },
   {
-    name: "📦 HealthCare Stock Desktop",
+    name: "📦 HealthCare Stocks",
     description: "Minimal stock management desktop app for a pharmacy",
-    stack: ["Flutter (Windows)", "Firebase"],
-    repoLink: "https://github.com/your-username/healthcare-inventory"
+    stack: ["Flutter", "Firebase"],
+    repoLink: "https://github.com/RoH0HaN/healthcare-stock-inventory"
   },
   {
     name: "🍽️ Food Plaza (Canteen Billing)",
     description: "Quick-billing desktop app for canteens and local food stalls",
     stack: ["Flutter", "MySQL"],
-    repoLink: "https://github.com/your-username/food-plaza"
+    repoLink: "https://github.com/RoH0HaN/food-plaza"
   }
 ];
 ```
